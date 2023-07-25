@@ -8,3 +8,6 @@ Added a header for practice.
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Begin learning GitHub
+- [ ] Master Github
+- [ ] Finish AI training
